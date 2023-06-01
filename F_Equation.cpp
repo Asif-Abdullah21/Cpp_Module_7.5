@@ -15,7 +15,6 @@ void solve(int x,int n)
         ans += temp;
     }
     
-    
 
     cout << ans << endl;
     
